@@ -35,6 +35,7 @@ Code file:
 
   Indicator 3 code file: 'UD.py'
 
+“””
 Enter a description of the parameter:
   ins：Data file path.
         For example：ins='datasets/data/***.txt'
@@ -57,3 +58,4 @@ Enter a description of the parameter:
   yy:Threshold range. yy = np.linspace(min=0.02,max,num), min in parentheses is the minimum value of 0.02 (i.e., step size), max is the maximum value, and num is the number. Ensure that the step size of 0.02, according to the trend of the line to adjust the maximum value, so that the line tends to stabilize. Step = max/num 
         Example: yy = np.linspace(0.02,1,50) # the minimum value is 0.02, the maximum value is 1, the step size of 0.02
 """
+“”“
