@@ -23,9 +23,8 @@ LRAB4：Maximum edge distribution.
 LRAB5：Maximum entropy distribution. 
 """
 
-
-#3 Indicators：
 """
+#3 Indicators：
 Code file:
     Indicator 1 code file: 'meank.py'
     Indicator 2 code file: 'connectivity.py'
