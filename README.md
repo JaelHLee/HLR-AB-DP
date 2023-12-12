@@ -10,6 +10,7 @@ pip install seaborn
 ```
 """
 #5 Scenario：
+
 Original scenario, network not responding.
 
 LRAB1：Even distribution. reference paper: Rapisardi, Giacomo, Ivan Kryven, and Alex Arenas. "Percolation in networks with local homeostatic plasticity." Nature Communications 13.1 (2022): 122.
