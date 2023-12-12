@@ -27,9 +27,7 @@ LRAB5：Maximum entropy distribution.
 #3 Indicators：
 Code file:
     Indicator 1 code file: 'meank.py'
-    
     Indicator 2 code file: 'connectivity.py'
-    
     Indicator 3 code file: 'UD.py'
 """
 Enter a description of the parameter:
