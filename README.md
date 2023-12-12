@@ -8,14 +8,20 @@ pip install networkx
 ``` bash
 pip install seaborn
 ```
+"""
 #5 Scenario：
 Original scenario, network not responding.
-LRAB1：Even distribution. reference paper: Rapisardi, Giacomo, Ivan Kryven, and Alex Arenas. "Percolation in networks with local homeostatic plasticity." Nature Communications 13.1 (2022): 122.
-LRAB2：Edge weight distribution. 
-LRAB3：Source node total out weight flow distribution. 
-LRAB4：Maximum edge distribution.
-LRAB5：Maximum entropy distribution. 
 
+LRAB1：Even distribution. reference paper: Rapisardi, Giacomo, Ivan Kryven, and Alex Arenas. "Percolation in networks with local homeostatic plasticity." Nature Communications 13.1 (2022): 122.
+
+LRAB2：Edge weight distribution. 
+
+LRAB3：Source node total out weight flow distribution. 
+
+LRAB4：Maximum edge distribution.
+
+LRAB5：Maximum entropy distribution. 
+"""
 
 
 #3 Indicators：
